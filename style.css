@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto:wght@500&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+    padding: 0%;
+}
+
+.top-banner {
+    background-image: url(img/top-banner.png);
+    background-repeat: no-repeat;
+
+}
+.btn{
+    text-decoration: none;
+    color: white;
+    background-color: tomato;
+    padding: 5px 15px 5px 15px;
+    border-radius: 5px;
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.text {
+    width: 54%;
+    padding-left: 11%;
+}
+
+.huf-width {
+    display: flex;
+    margin-bottom: 150px;
+    
+    
+}
+.experiences-aria{
+    display: flex;
+    margin-bottom: 150px;
+}
+#can{
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+.color {
+    color: orange;
+}
+
+.huf-width img {
+    width: 80%;
+}
+.img-padding{
+    padding-left: 11%;
+    width: 10%;
+}
+.dream-big{
+    background-image: url(img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.text-sige{
+    width: 50%;
+    margin-right: 11%;
+}
+.dieam-width{
+    display: flex;
+    margin-bottom: 150px;
+}
+#sige{
+    width: 95%;
+    padding-left: 33%;
+}
+.box-1{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 5px 7px 40px gray;
+    padding: 20px;
+    border-left: 5px solid tomato;
+}
+.box-2{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 5px 7px 40px gray;
+    padding: 20px;
+    border-left: 5px solid blue;
+}
+footer{
+    text-align: center;
+    margin-bottom: 50px;
+}
